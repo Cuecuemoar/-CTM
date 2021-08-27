@@ -1,4 +1,5 @@
 ## CTM API usage
+Note: I didn't write this in Markdown but the raw-text version is formatted pretty well
 
 This is a REST API for creating users and updating their opt-in status. 
 A user can be created by issuing a POST to /users with a payload containing first_name, last_name, email, and opt_in.
